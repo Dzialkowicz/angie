@@ -27,7 +27,7 @@ Wykrywacz metali Garrett AT GOLD
 SASER
 <https://physics.info/sound/>
 
-Ogolne wlasciwosci dzwieku (amplituda, czestotliwosc, okres, dlugosc fali)
+Ogolne wlasciwosci dzwieku (amplituda, czestotliwosc, okres, dlugosc fali, predkosc dzwieku, natezenie)
 <https://pl.khanacademy.org/science/physics/mechanical-waves-and-sound/sound-topic/v/sound-properties-amplitude-period-frequency-wavelength>
 
 Placz dziecka
