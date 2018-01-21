@@ -23,5 +23,12 @@ Australijski swierszcz
 
 Wykrywacz metali Garrett AT GOLD
 <https://www.garrett.com/hobbysite/hbby_at_gold_tech_specs_en.aspx>
+
+SASER
+<https://physics.info/sound/>
+
+Ogolne wlasciwosci dzwieku (amplituda)
+<https://pl.khanacademy.org/science/physics/mechanical-waves-and-sound/sound-topic/v/sound-properties-amplitude-period-frequency-wavelength>
+
 Placz dziecka
 <http://spl.telhai.ac.il/speech/splnews/upload/Baby%20cry%20analysis.pdf>
