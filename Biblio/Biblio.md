@@ -27,8 +27,11 @@ Wykrywacz metali Garrett AT GOLD
 SASER
 <https://physics.info/sound/>
 
-Ogolne wlasciwosci dzwieku (amplituda, czestotliwosc, okres, dlugosc fali, predkosc dzwieku, natezenie)
+Ogolne wlasciwosci dzwieku (amplituda, czestotliwosc, okres, dlugosc fali, predkosc dzwieku, natezenie, decybel)
 <https://pl.khanacademy.org/science/physics/mechanical-waves-and-sound/sound-topic/v/sound-properties-amplitude-period-frequency-wavelength>
+
+Decybel
+<https://en.wikipedia.org/wiki/Decibel>
 
 Placz dziecka
 <http://spl.telhai.ac.il/speech/splnews/upload/Baby%20cry%20analysis.pdf>
