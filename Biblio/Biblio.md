@@ -33,5 +33,9 @@ Ogolne wlasciwosci dzwieku (amplituda, czestotliwosc, okres, dlugosc fali, predk
 Decybel
 <https://en.wikipedia.org/wiki/Decibel>
 
+Sygnał analogowy i cyfrowy
+<https://edu.pjwstk.edu.pl/wyklady/ups/scb/index07.html>
+<https://pl.wikipedia.org/wiki/Kwantyzacja_(technika)>
+
 Placz dziecka
 <http://spl.telhai.ac.il/speech/splnews/upload/Baby%20cry%20analysis.pdf>
