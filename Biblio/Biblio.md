@@ -39,3 +39,5 @@ Sygnał analogowy i cyfrowy
 
 Placz dziecka
 <http://spl.telhai.ac.il/speech/splnews/upload/Baby%20cry%20analysis.pdf>
+<http://www.merckmanuals.com/home/children-s-health-issues/symptoms-in-infants-and-children/crying>
+<https://pl.wikipedia.org/wiki/Wgłobienie>
