@@ -41,3 +41,11 @@ Placz dziecka
 <http://spl.telhai.ac.il/speech/splnews/upload/Baby%20cry%20analysis.pdf>
 <http://www.merckmanuals.com/home/children-s-health-issues/symptoms-in-infants-and-children/crying>
 <https://pl.wikipedia.org/wiki/Wgłobienie>
+
+Czestotliwosc placzu
+<http://spl.telhai.ac.il/speech/pub/ieeei2012_submission_215%20(7).pdf>
+Glosnosc placzu
+<https://encompass.eku.edu/cgi/viewcontent.cgi?referer=https://www.google.pl/&httpsredir=1&article=1011&context=ugra>
+
+Probki placzu
+<http://sirkan.iit.bme.hu/~varallyay/crysamples.htm>
